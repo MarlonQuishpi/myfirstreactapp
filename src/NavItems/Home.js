@@ -9,43 +9,38 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20161102-P1040350.jpg'
+            src='https://lms.barcelonactiva.cat/img/imatge_presencials_informatica_programacio7.jpg'
+          />
+        </div>
+    
+        <div className='rowImage'>
+          <img
+            className='smallImage'
+            src='https://c8.alamy.com/compes/mbc4ex/nayon-ecuador-24-de-julio-de-2015-fiestas-populares-en-la-ciudad-de-nayon-procesiones-y-hay-desfiles-por-las-calles-de-la-ciudad-mbc4ex.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170126-P1000299.jpg'
+            src='https://i1.wp.com/pasaportesindestino.net/wp-content/uploads/2018/04/2.png'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170722-_1100175.jpg'
+            src='https://www.turismoecuador24.com/archivos/destinos/Manos_de_dios.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170722-_1100265.jpg'
+            src='https://latintrails.com/wp-content/uploads/2017/08/The-most-beautiful-landscapes-in-Ecuador-for-photography-lovers2.jpg'
           />
         </div>
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170805-_1100655.jpg'
-          />
-        </div>
-        <div className='rowImage'>
-          <img
-            className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20170828-P1100756.jpg'
-          />
-        </div>
-        <div className='rowImage'>
-          <img
-            className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20171119-_1110070-2.jpg'
+            src='https://www.pragma.com.co/hubfs/h_react.jpg'
           />
         </div>
         <div className='rowImage'>
@@ -70,7 +65,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/20180118-_1130419.jpg'
+            src='https://samarispa.com/wp-content/uploads/2021/06/city-tour-en-ban%CC%83os.jpeg'
           />
         </div>
         <div className='rowImage'>
@@ -96,7 +91,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1388.jpg'
+            src='https://ecuadoralmundo.com/wp-content/uploads/2023/03/tonsupa.webp'
           />
         </div>
 
@@ -124,7 +119,7 @@ const Home = () => {
         <div className='rowImage'>
           <img
             className='smallImage'
-            src='https://sebasdm7.github.io/WEBSITE/WebsitePhotos/img/DSCF1540.jpg'
+            src='https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/EQ5ACYCNURHQ7LT446DWMHGDSY.jpg'
           />
         </div>
 
